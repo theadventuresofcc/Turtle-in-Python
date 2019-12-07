@@ -3,6 +3,7 @@
 002. [甜甜圈](#tiantianquan)
 003. [彩虹螺旋](#caihongluoxuan)
 004. [爱心](#aixin)
+005. [八卦](#bagua)
 
 <a name="xuehua"></a>
 ## 001-雪花
@@ -19,3 +20,7 @@
 <a name="aixin"></a>
 ## 004-爱心
 ![爱心](https://github.com/theadventuresofcc/Turtle-in-Python/blob/master/004-%E7%88%B1%E5%BF%83/004-%E7%88%B1%E5%BF%83.jpg)
+
+<a name="bagua"></a>
+## 005-八卦
+![八卦](https://github.com/theadventuresofcc/Turtle-in-Python/blob/master/005-%E5%85%AB%E5%8D%A6/005-%E5%85%AB%E5%8D%A6.jpg)
